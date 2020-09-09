@@ -1,0 +1,7 @@
+.parallax{
+    background-image: url("https://image.freepik.com/free-vector/trendy-african-maya-seamless-pattern-with-doodle-hand-drawn-ancient-objects_37925-1112.jpg");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
